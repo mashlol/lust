@@ -1,0 +1,11 @@
+{
+  "name": "lust",
+  "version": "0.0.1",
+  "description": "The test framework that loves you",
+  "main": "app.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "author": "Kevin Bedi",
+  "license": "MIT"
+}
